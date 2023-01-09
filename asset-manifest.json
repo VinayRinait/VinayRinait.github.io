@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.cfb3c7e5.js",
+    "main.js": "/static/js/main.532d2ad9.js",
     "static/media/ss.png": "/static/media/ss.31b806a6f1f59970e06a.png",
     "static/media/gym.png": "/static/media/gym.200e21ca297a38a62fd1.png",
     "static/media/netmeds.png.png": "/static/media/netmeds.png.9d2c394a8794749260dd.png",
     "static/media/Vinay_Rinait_Resume.pdf": "/static/media/Vinay_Rinait_Resume.ea0c3a8d5e712402debd.pdf",
+    "static/media/buffer.png": "/static/media/buffer.18550a0ca155d89c59b7.png",
     "static/media/sqliteLogo.png": "/static/media/sqliteLogo.f05a612d02f52a49bcfe.png",
     "static/media/background.jpg": "/static/media/background.2918bc3b047defa2f0ee.jpg",
     "static/media/background2.jpg": "/static/media/background2.80a8caefa0d3cf307e28.jpg",
     "static/media/my.jpg": "/static/media/my.6808b3fb624d657390a5.jpg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.cfb3c7e5.js.map": "/static/js/main.cfb3c7e5.js.map"
+    "main.532d2ad9.js.map": "/static/js/main.532d2ad9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cfb3c7e5.js"
+    "static/js/main.532d2ad9.js"
   ]
 }
